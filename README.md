@@ -12,6 +12,6 @@ perform a security assessment.
 4. Each day of the intern helped me to improve soft skills and hard skills
 
 Non-Technical Outcomes
-1. I realised to, perform hacking and penetration testing one requires a lot of patience
+1. I realised, to perform hacking and penetration testing one requires a lot of patience
 and hardwork.
 2. Made some new friends. 
